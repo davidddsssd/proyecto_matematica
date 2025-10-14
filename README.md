@@ -1,2 +1,7 @@
 # proyecto_matematica
-tablero de ajedrez??
+## PROYECTO TABLERO DE AJEDREZ 
+### EVALUACION 3
+
+INDICACIONES 
+
+
